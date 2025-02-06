@@ -28,5 +28,17 @@
 - [ ] Final touches toevoegen ✨
 
 ---
+# Mijn Portfolio
+
+> **Let op:** Deze pagina is een vroege versie van mijn werk en moet niet als representatief worden gezien voor mijn huidige vaardigheden.
+
+---
+
+## Installatie-instructies
+
+1. **Clone deze repository**  
+   ```bash
+   git clone https://github.com//Gwenneke/gwen.git
+
 
 Voor meer informatie, [klik hier](https://www.gwenr.be).  
